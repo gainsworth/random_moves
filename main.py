@@ -256,5 +256,5 @@ while True:
     print(my_move)
 
     if board.is_checkmate():
-        print("You checkmate TC. Game over.")
+        print("You checkmate TC. Game over. Nice one.")
         break
